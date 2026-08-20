@@ -1,1 +1,1 @@
-# cinema-booking-system-with-golang
+# Cinema Booking System Using Golang
